@@ -1,0 +1,24 @@
+_repo: Des-Waldbauern-Friedel_67210
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lenk, Margarete
+    gutenberg_agent_id: '54157'
+    url: http://www.gutenberg.org/2009/agents/54157
+description: ''
+gutenberg_issued: '2022-01-21'
+identifiers:
+  gutenberg: '67210'
+language: de
+pgterms:marc905: 20170408004342lenk
+pgterms:marc906: '1912'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Johannes Herrmann,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Des Waldbauern Friedel
+url: http://www.gutenberg.org/ebooks/67210
